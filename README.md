@@ -1,3 +1,6 @@
+# Instructions:
+Check out https://www.reddit.com/r/StableDiffusion/comments/wvzr7s/tutorial_fine_tuning_stable_diffusion_using_only/
+
 # An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion
 
 [![arXiv](https://img.shields.io/badge/arXiv-2208.01618-b31b1b.svg)](https://arxiv.org/abs/2208.01618)
